@@ -27,9 +27,6 @@ table{
 .tutorial{
   background-color: #91cdff;
 }
-.informal{
-  background-color:
-}
 .comida{
   background-color: lightgray;
 }
@@ -46,5 +43,5 @@ td span{
 }
 table caption{
   font-weight: bolder;
-  
+  font-size: 1.5em;
 }
