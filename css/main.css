@@ -1,0 +1,34 @@
+td,
+th{
+  border-radius: 5px;
+}
+th{
+  background-color: #b4c2cf;
+}
+table{
+  /*border-collapse: collapse;*/
+  border-spacing: 3px;
+}
+.magistral{
+  background-color: #bfbfbf;
+}
+
+.Conferencia{
+  background-color: #e56cff;
+}
+
+.general{
+  background-color: #9798ca;
+}
+.taller{
+  background-color: #9699fe;
+}
+.tutorial{
+  background-color: #91cdff;
+}
+.informal{
+  background-color:
+}
+.comida{
+  background-color: lightgray;
+}
